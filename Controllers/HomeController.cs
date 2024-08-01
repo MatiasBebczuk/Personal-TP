@@ -28,4 +28,19 @@ public class HomeController : Controller
     {
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
+
+    public IActionResult Clubes()
+    {
+        return View();
+    }
+
+    public IActionResult Colegios()
+    {
+        return View();
+    }
+
+    public IActionResult Deportes()
+    {
+        return View();
+    }
 }
