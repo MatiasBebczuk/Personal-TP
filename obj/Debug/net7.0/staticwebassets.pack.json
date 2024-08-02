@@ -5,6 +5,50 @@
       "PackagePath": "staticwebassets\\Personal-TP.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\48242936\\Desktop\\Personal-TP\\wwwroot\\Img\\Clubes\\bethilel.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Clubes\\bethilel.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\48242936\\Desktop\\Personal-TP\\wwwroot\\Img\\Clubes\\macabi.jpg",
+      "PackagePath": "staticwebassets\\Img\\Clubes\\macabi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\48242936\\Desktop\\Personal-TP\\wwwroot\\Img\\Clubes\\sha.png",
+      "PackagePath": "staticwebassets\\Img\\Clubes\\sha.png"
+    },
+    {
+      "Id": "C:\\Users\\48242936\\Desktop\\Personal-TP\\wwwroot\\Img\\Colegios\\Gesang.png",
+      "PackagePath": "staticwebassets\\Img\\Colegios\\Gesang.png"
+    },
+    {
+      "Id": "C:\\Users\\48242936\\Desktop\\Personal-TP\\wwwroot\\Img\\Colegios\\ort.jpg",
+      "PackagePath": "staticwebassets\\Img\\Colegios\\ort.jpg"
+    },
+    {
+      "Id": "C:\\Users\\48242936\\Desktop\\Personal-TP\\wwwroot\\Img\\Deportes\\futbol.png",
+      "PackagePath": "staticwebassets\\Img\\Deportes\\futbol.png"
+    },
+    {
+      "Id": "C:\\Users\\48242936\\Desktop\\Personal-TP\\wwwroot\\Img\\Deportes\\rugby.png",
+      "PackagePath": "staticwebassets\\Img\\Deportes\\rugby.png"
+    },
+    {
+      "Id": "C:\\Users\\48242936\\Desktop\\Personal-TP\\wwwroot\\Img\\Index\\club.png",
+      "PackagePath": "staticwebassets\\Img\\Index\\club.png"
+    },
+    {
+      "Id": "C:\\Users\\48242936\\Desktop\\Personal-TP\\wwwroot\\Img\\Index\\deportes.png",
+      "PackagePath": "staticwebassets\\Img\\Index\\deportes.png"
+    },
+    {
+      "Id": "C:\\Users\\48242936\\Desktop\\Personal-TP\\wwwroot\\Img\\Index\\school.png",
+      "PackagePath": "staticwebassets\\Img\\Index\\school.png"
+    },
+    {
+      "Id": "C:\\Users\\48242936\\Desktop\\Personal-TP\\wwwroot\\Imgs",
+      "PackagePath": "staticwebassets"
+    },
+    {
       "Id": "C:\\Users\\48242936\\Desktop\\Personal-TP\\wwwroot\\css\\Clubes.css",
       "PackagePath": "staticwebassets\\css\\Clubes.css"
     },
