@@ -6,7 +6,6 @@ C:\Users\48242936\Desktop\Personal-TP\bin\Debug\net7.0\Personal-TP.deps.json
 C:\Users\48242936\Desktop\Personal-TP\bin\Debug\net7.0\Personal-TP.runtimeconfig.json
 C:\Users\48242936\Desktop\Personal-TP\bin\Debug\net7.0\Personal-TP.dll
 C:\Users\48242936\Desktop\Personal-TP\bin\Debug\net7.0\Personal-TP.pdb
-C:\Users\48242936\Desktop\Personal-TP\obj\Debug\net7.0\Personal-TP.csproj.AssemblyReference.cache
 C:\Users\48242936\Desktop\Personal-TP\obj\Debug\net7.0\Personal-TP.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\48242936\Desktop\Personal-TP\obj\Debug\net7.0\Personal-TP.AssemblyInfoInputs.cache
 C:\Users\48242936\Desktop\Personal-TP\obj\Debug\net7.0\Personal-TP.AssemblyInfo.cs
@@ -29,3 +28,4 @@ C:\Users\48242936\Desktop\Personal-TP\obj\Debug\net7.0\refint\Personal-TP.dll
 C:\Users\48242936\Desktop\Personal-TP\obj\Debug\net7.0\Personal-TP.pdb
 C:\Users\48242936\Desktop\Personal-TP\obj\Debug\net7.0\Personal-TP.genruntimeconfig.cache
 C:\Users\48242936\Desktop\Personal-TP\obj\Debug\net7.0\ref\Personal-TP.dll
+C:\Users\48242936\Desktop\Personal-TP\obj\Debug\net7.0\Personal-TP.sourcelink.json
