@@ -1,0 +1,46 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="/Home/CrearUsuario">creating users</a> and view the <a href="/Home/ListaUsuarios">list of users</a>.</p>
+</div>
+
+<div class="text-center">
+    <h1 class="display-4">Matias Bebczuk</h1>
+    <p>En esta web vas a conocer un poco acerca de mi persona</p>
+</div>
+<div class="row row-cols-1 row-cols-md-3 g-4" >
+            <div class="col-sm-6 mb-3 mb-sm-0">
+                <div class="card">
+                    <img src="/Img/Index/school.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">COLEGIOS</h5>
+                        <p class="card-text">En este apartado conoceras acerca de los colegios que fuí y donde estudio ahora.</p>
+                        <a href='@Url.Action("Colegios", "Home")' class="btn btn-primary">Ir a colegios</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="card">
+                    <img src="/Img/Index/club.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">CLUBES</h5>
+                        <p class="card-text">En este apartado conoceras acerca de los clubes/comunidades donde estuve o estoy ahora.</p>
+                        <a href='@Url.Action("Clubes", "Home")' class="btn btn-primary">Ir a clubes</a>
+            </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="card">
+                    <img src="/Img/Index/deportes.png" class="card-img-top" alt="deportes">
+                    <div class="card-body">
+                        <h5 class="card-title">DEPORTES</h5>
+                        <p class="card-text">En este apartado conoceras acerca de los deportes que me gustan y que practico.</p>
+                        <a href='@Url.Action("Deportes", "Home")' class="btn btn-primary">Ir a deportes</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
