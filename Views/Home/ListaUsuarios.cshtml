@@ -1,0 +1,10 @@
+@model List<Personal_TP.Models.Usuario>
+
+<h2>Lista de Usuarios</h2>
+
+<ul>
+    @foreach (var usuario in Model)
+    {
+        <li>@usuario.Nombre - @usuario.Email</li>
+    }
+</ul>

@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IzdXNwJdj5yVlQv8euouQT+AE09UTsdR0UPUgBGNPydNXi36Aczp3pOHnJBRJ0ccQ1DxZNTUGNI2s5Wih3K4+A==",
+  "dgSpecHash": "/NXF61Pa1T54q/6xpDe1fTt7KWDvWJL8lVaGs68oVdi9DPNhthi+Y/QwVSSxJx+S39PUWaIBpqqTC+uwLGLyig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\48242936\\Desktop\\Personal-TP\\Personal-TP.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\48242936\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
-    "C:\\Users\\48242936\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
-    "C:\\Users\\48242936\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
-    "C:\\Users\\48242936\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\matia\\Downloads\\Personal-TP\\Personal-TP.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,19 @@
+@model Personal_TP.Models.Usuario
+
+<h2>Crear Usuario</h2>
+
+<form asp-action="CrearUsuario" method="post">
+    <div>
+        <label for="Nombre">Nombre</label>
+        <input type="text" id="Nombre" name="Nombre" asp-for="Nombre" />
+    </div>
+    <div>
+        <label for="Email">Email</label>
+        <input type="email" id="Email" name="Email" asp-for="Email" />
+    </div>
+    <div>
+        <label for="Password">Password</label>
+        <input type="password" id="Password" name="Password" asp-for="Password" />
+    </div>
+    <button type="submit">Crear</button>
+</form>
