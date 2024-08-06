@@ -1,10 +1,17 @@
 ﻿@{
     ViewData["Title"] = "Home";
+    <link rel="stylesheet" href="/css/Index.css">  
 }
 
-<h2>Home</h2>
+<header>
+    <h1>Mi Aplicación</h1>
+</header>
 
-<p>
-    <a href="/Home/CrearUsuario">Crear Usuario</a> | 
-    <a href="/Home/IniciarSesion">Iniciar Sesión</a>
-</p>
+<main role="main" class="container">
+    <h2 class="title">Home</h2>
+
+    <p>
+        <a href="/Home/CrearUsuario" class="btn">Crear Usuario</a>
+        <a href="/Home/IniciarSesion" class="btn">Iniciar Sesión</a>
+    </p>
+</main>
