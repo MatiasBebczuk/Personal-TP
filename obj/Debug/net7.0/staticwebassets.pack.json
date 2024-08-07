@@ -21,8 +21,8 @@
       "PackagePath": "staticwebassets\\Img\\Colegios\\Gesang.png"
     },
     {
-      "Id": "C:\\Users\\matia\\Downloads\\Personal-TP\\wwwroot\\Img\\Colegios\\ort.jpg",
-      "PackagePath": "staticwebassets\\Img\\Colegios\\ort.jpg"
+      "Id": "C:\\Users\\matia\\Downloads\\Personal-TP\\wwwroot\\Img\\Colegios\\ort.png",
+      "PackagePath": "staticwebassets\\Img\\Colegios\\ort.png"
     },
     {
       "Id": "C:\\Users\\matia\\Downloads\\Personal-TP\\wwwroot\\Img\\Deportes\\futbol.png",
@@ -57,8 +57,20 @@
       "PackagePath": "staticwebassets\\css\\Colegios.css"
     },
     {
+      "Id": "C:\\Users\\matia\\Downloads\\Personal-TP\\wwwroot\\css\\CrearUsuario.css",
+      "PackagePath": "staticwebassets\\css\\CrearUsuario.css"
+    },
+    {
       "Id": "C:\\Users\\matia\\Downloads\\Personal-TP\\wwwroot\\css\\Deportes.css",
       "PackagePath": "staticwebassets\\css\\Deportes.css"
+    },
+    {
+      "Id": "C:\\Users\\matia\\Downloads\\Personal-TP\\wwwroot\\css\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Index.css"
+    },
+    {
+      "Id": "C:\\Users\\matia\\Downloads\\Personal-TP\\wwwroot\\css\\IniciarSesion.css",
+      "PackagePath": "staticwebassets\\css\\IniciarSesion.css"
     },
     {
       "Id": "C:\\Users\\matia\\Downloads\\Personal-TP\\wwwroot\\css\\site.css",

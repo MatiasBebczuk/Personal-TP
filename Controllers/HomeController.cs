@@ -47,13 +47,11 @@ namespace Personal_TP.Controllers
             return View();
         }
 
-        // Acción para mostrar el formulario de creación de usuario
         public IActionResult CrearUsuario()
         {
             return View();
         }
 
-        // Acción para manejar el envío del formulario de creación de usuario
         [HttpPost]
         public IActionResult CrearUsuario(Usuario usuario)
         {
@@ -65,13 +63,12 @@ namespace Personal_TP.Controllers
             return View(usuario);
         }
 
-        // Acción para mostrar el formulario de inicio de sesión
         public IActionResult IniciarSesion()
         {
             return View();
         }
 
-        // Acción para manejar el envío del formulario de inicio de sesión
+        // Manejo del envío del formulario de inicio de sesión
         [HttpPost]
         public IActionResult IniciarSesion(string email, string password)
         {
@@ -88,13 +85,11 @@ namespace Personal_TP.Controllers
             }
         }
 
-        // Acción para mostrar la página de bienvenida después de iniciar sesión
         public IActionResult Bienvenido()
         {
             return View();
         }
 
-        // Acción para mostrar la lista de usuarios (opcional)
         public IActionResult ListaUsuarios()
         {
             return View(usuarios);

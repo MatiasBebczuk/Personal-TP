@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WtMDR5QJSkgKtDEnl0DZC5jkp9JlC0jcBBUmj0Nnscg=",
+  "Hash": "DDx9ns6GH2RUZ6VOgfyNKeGAJUnGUzEXPBbp3TqB20U=",
   "Source": "Personal-TP",
   "BasePath": "_content/Personal-TP",
   "Mode": "Default",
@@ -85,6 +85,23 @@
       "OriginalItemSpec": "wwwroot\\css\\Colegios.css"
     },
     {
+      "Identity": "C:\\Users\\matia\\Downloads\\Personal-TP\\wwwroot\\css\\CrearUsuario.css",
+      "SourceId": "Personal-TP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\matia\\Downloads\\Personal-TP\\wwwroot\\",
+      "BasePath": "_content/Personal-TP",
+      "RelativePath": "css/CrearUsuario.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\CrearUsuario.css"
+    },
+    {
       "Identity": "C:\\Users\\matia\\Downloads\\Personal-TP\\wwwroot\\css\\Deportes.css",
       "SourceId": "Personal-TP",
       "SourceType": "Discovered",
@@ -100,6 +117,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Deportes.css"
+    },
+    {
+      "Identity": "C:\\Users\\matia\\Downloads\\Personal-TP\\wwwroot\\css\\Index.css",
+      "SourceId": "Personal-TP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\matia\\Downloads\\Personal-TP\\wwwroot\\",
+      "BasePath": "_content/Personal-TP",
+      "RelativePath": "css/Index.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Index.css"
+    },
+    {
+      "Identity": "C:\\Users\\matia\\Downloads\\Personal-TP\\wwwroot\\css\\IniciarSesion.css",
+      "SourceId": "Personal-TP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\matia\\Downloads\\Personal-TP\\wwwroot\\",
+      "BasePath": "_content/Personal-TP",
+      "RelativePath": "css/IniciarSesion.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\IniciarSesion.css"
     },
     {
       "Identity": "C:\\Users\\matia\\Downloads\\Personal-TP\\wwwroot\\css\\site.css",
@@ -204,12 +255,12 @@
       "OriginalItemSpec": "wwwroot\\Img\\Colegios\\Gesang.png"
     },
     {
-      "Identity": "C:\\Users\\matia\\Downloads\\Personal-TP\\wwwroot\\Img\\Colegios\\ort.jpg",
+      "Identity": "C:\\Users\\matia\\Downloads\\Personal-TP\\wwwroot\\Img\\Colegios\\ort.png",
       "SourceId": "Personal-TP",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\matia\\Downloads\\Personal-TP\\wwwroot\\",
       "BasePath": "_content/Personal-TP",
-      "RelativePath": "Img/Colegios/ort.jpg",
+      "RelativePath": "Img/Colegios/ort.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,7 +269,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\Colegios\\ort.jpg"
+      "OriginalItemSpec": "wwwroot\\Img\\Colegios\\ort.png"
     },
     {
       "Identity": "C:\\Users\\matia\\Downloads\\Personal-TP\\wwwroot\\Img\\Deportes\\futbol.png",
