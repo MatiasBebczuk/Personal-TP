@@ -9,65 +9,69 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Personal_TP
 build_property.RootNamespace = Personal_TP
-build_property.ProjectDir = C:\Users\matia\Downloads\Personal-TP\
+build_property.ProjectDir = C:\Users\48242936\Downloads\Personal-TP\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\matia\Downloads\Personal-TP
+build_property.MSBuildProjectDirectory = C:\Users\48242936\Downloads\Personal-TP
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/matia/Downloads/Personal-TP/Views/Home/Bienvenido.cshtml]
+[C:/Users/48242936/Downloads/Personal-TP/Views/Home/Bienvenido.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCaWVudmVuaWRvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matia/Downloads/Personal-TP/Views/Home/Clubes.cshtml]
+[C:/Users/48242936/Downloads/Personal-TP/Views/Home/Clubes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDbHViZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matia/Downloads/Personal-TP/Views/Home/Colegios.cshtml]
+[C:/Users/48242936/Downloads/Personal-TP/Views/Home/Colegios.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb2xlZ2lvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matia/Downloads/Personal-TP/Views/Home/CrearUsuario.cshtml]
+[C:/Users/48242936/Downloads/Personal-TP/Views/Home/Contacto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/48242936/Downloads/Personal-TP/Views/Home/CrearUsuario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhclVzdWFyaW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matia/Downloads/Personal-TP/Views/Home/Deportes.cshtml]
+[C:/Users/48242936/Downloads/Personal-TP/Views/Home/Deportes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXBvcnRlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matia/Downloads/Personal-TP/Views/Home/Index.cshtml]
+[C:/Users/48242936/Downloads/Personal-TP/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matia/Downloads/Personal-TP/Views/Home/IniciarSesion.cshtml]
+[C:/Users/48242936/Downloads/Personal-TP/Views/Home/IniciarSesion.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmljaWFyU2VzaW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matia/Downloads/Personal-TP/Views/Home/ListaUsuarios.cshtml]
+[C:/Users/48242936/Downloads/Personal-TP/Views/Home/ListaUsuarios.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0YVVzdWFyaW9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matia/Downloads/Personal-TP/Views/Home/Privacy.cshtml]
+[C:/Users/48242936/Downloads/Personal-TP/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matia/Downloads/Personal-TP/Views/Shared/Error.cshtml]
+[C:/Users/48242936/Downloads/Personal-TP/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matia/Downloads/Personal-TP/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/48242936/Downloads/Personal-TP/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matia/Downloads/Personal-TP/Views/_ViewImports.cshtml]
+[C:/Users/48242936/Downloads/Personal-TP/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matia/Downloads/Personal-TP/Views/_ViewStart.cshtml]
+[C:/Users/48242936/Downloads/Personal-TP/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matia/Downloads/Personal-TP/Views/Shared/_Layout.cshtml]
+[C:/Users/48242936/Downloads/Personal-TP/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-4px9x9j8ze

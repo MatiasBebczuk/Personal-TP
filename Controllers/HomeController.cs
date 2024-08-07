@@ -94,5 +94,10 @@ namespace Personal_TP.Controllers
         {
             return View(usuarios);
         }
+
+        public IActionResult Contacto()
+        {
+            return View(usuarios);
+        }
     }
 }

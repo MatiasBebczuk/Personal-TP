@@ -20,7 +20,7 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Bienvenido" asp-action="Home">Home</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Bienvenido">Home</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
@@ -33,7 +33,7 @@
                         <li><a class="dropdown-item" href='@Url.Action("Clubes", "Home")'>Clubes</a></li>
                         <li><a class="dropdown-item" href='@Url.Action("Deportes", "Home")'>Deportes</a></li>
                         <li><hr class="dropdown-divider"></li>
-                 <li>    <a class="dropdown-item" href="#">Something else here</a></li>
+                        <li><a class="dropdown-item" href='@Url.Action("Contacto", "Home")'>Contacto</a></li>
           </ul>
         </li>
                     </ul>

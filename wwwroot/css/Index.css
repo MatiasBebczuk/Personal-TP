@@ -2,7 +2,7 @@
 
 /* Estilo general del cuerpo */
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: arial;
     background-color: rgb(160, 211, 245); /* Color de fondo solicitado */
     color: #333;
     margin: 0;
